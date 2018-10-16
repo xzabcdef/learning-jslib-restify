@@ -1,0 +1,23 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#vs.net:
+.vs/
+bin/
+obj/
+
+#jetbrains:
+.idea/
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+#node.js:
+node_modules/
